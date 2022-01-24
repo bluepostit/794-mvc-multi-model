@@ -1,0 +1,4 @@
+id,name,condition,cured,room_id
+1,sally,migraines,false,1
+2,billy,diabetes,false,1
+3,helen,covid,false,2
